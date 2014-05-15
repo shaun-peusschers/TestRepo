@@ -11,6 +11,7 @@ namespace TestRepo
         static void Main(string[] args)
         {
 
+            //New comment from renette
             //add some commen to this file
             //add second line of comment
         }
