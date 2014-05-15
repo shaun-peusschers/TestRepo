@@ -12,6 +12,7 @@ namespace TestRepo
         {
 
             //New comment from renette
+            //new comment from jacques
             //add some commen to this file
             //add second line of comment
         }
