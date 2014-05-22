@@ -8,5 +8,7 @@ namespace TestRepo
 {
     class TestClass
     {
+
+        //add bug fix on bug_fix2
     }
 }
