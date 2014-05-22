@@ -15,6 +15,10 @@ namespace TestRepo
             //add second line of comment
 
             //add new line of code
+
+            //add stuff
+            // Koos
+            // Koos again
         }
     }
 }
