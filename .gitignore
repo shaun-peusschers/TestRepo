@@ -30,6 +30,7 @@ TestResult.xml
 dlldata.c
 *.config
 
+*.config
 *_i.c
 *_p.c
 *_i.h
